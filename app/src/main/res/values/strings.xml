@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mi Quincena</string>
+    <string name="nav_quincena">Quincena</string>
+    <string name="nav_aguinaldo">Aguinaldo</string>
+    <string name="nav_deudas">Deudas</string>
+    <string name="nav_asesor">Asesor IA</string>
+    <string name="action_backup">Respaldo</string>
+    <string name="action_reset">Reiniciar datos</string>
+    <string name="action_export_json">Exportar archivo JSON</string>
+    <string name="action_import_json">Importar archivo JSON</string>
+    <string name="action_copy_json">Copiar respaldo JSON</string>
+    <string name="action_paste_json">Importar desde texto</string>
+    <string name="confirm_reset_title">¿Reiniciar todos los datos?</string>
+    <string name="confirm_reset_body">Se restaurarán los valores iniciales de sueldo, gastos fijos, aguinaldo, préstamos y las 25 compras de Banco Azteca. Esta acción no se puede deshacer.</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_confirm_reset">Sí, reiniciar</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_add">Agregar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_close">Cerrar</string>
+    <string name="quincena_base_label">Quincena Base ($3,680.25)</string>
+    <string name="quincena_bono_label">Quincena con Bono ($4,017.42)</string>
+    <string name="vales_title">Vales de despensa</string>
+    <string name="vales_badge">No se suma al efectivo</string>
+    <string name="advisor_analyze_cta">Analizar mi situación y recomendar qué hacer</string>
+    <string name="advisor_input_placeholder">Pregúntale a tu asesor (ej. ¿liquido EKT 2?)</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Mi Quincena",
+  "description": "Aplicación de finanzas personales en MXN con calculadora quincenal, aguinaldo, control de deudas sincronizado y asesor financiero con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
